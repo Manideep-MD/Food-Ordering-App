@@ -1,0 +1,22 @@
+html {
+    background-color: white;
+}
+
+.order {
+    margin-top: 80px;
+    text-align: center;
+    line-height: 4rem;
+    background-color: antiquewhite;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    overflow:hidden;
+}
+
+.imges{
+  width:270px;
+}
+.h3 {
+    color: rgb(162, 19, 19);
+    margin-left:70px;
+}
